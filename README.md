@@ -58,8 +58,3 @@ psql -h YOUR_HOST -U YOUR_USER -d YOUR_DATABASE -f sofa2_one_click.sql
 
 
 * 感谢 MIT-LCP 团队提供的 [MIMIC-IV](https://mimic.mit.edu/) 数据库及其庞大的开源生态。
-
-
-```
-
-```
