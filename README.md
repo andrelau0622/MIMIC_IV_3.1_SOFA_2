@@ -54,7 +54,7 @@ psql -h YOUR_HOST -U YOUR_USER -d YOUR_DATABASE -f sofa2_one_click.sql
 
 ## 致谢 (Acknowledgments)
 
-* 本项目底层逻辑与代码基于开源项目 [wzwxh2023/SaAki_Sofa_benchmark](https://www.google.com/search?q=https://github.com/wzwxh2023/SaAki_Sofa_benchmark) 提取与重构。
+* 本项目底层逻辑与代码基于开源项目 [wzwxh2023/SaAki_Sofa_benchmark](https://github.com/wzwxh2023/SaAki_Sofa_benchmark) 提取与重构。
 
 
 * 感谢 MIT-LCP 团队提供的 [MIMIC-IV](https://mimic.mit.edu/) 数据库及其庞大的开源生态。
